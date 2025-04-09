@@ -1,3 +1,5 @@
+# Mini Guaraní
 
-// Archivo de ejemplo para el proyecto Mini Guaraní
-// Reemplazar este contenido con los archivos reales del proyecto
+Este proyecto simula un sistema básico de inscripción a materias universitarias, similar a SIU-Guaraní...
+
+(más instrucciones como en el README anterior)
